@@ -1,3 +1,5 @@
+## A simple script that calculates the exact complex roots of a given quadratic equation, by taking inputs the coefficients of the equation ##
+
 from cmath import sqrt
 
 print('\nFor the equation in form:\na*x^2+b*x+c=0\n')
