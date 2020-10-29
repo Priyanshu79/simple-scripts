@@ -1,5 +1,5 @@
-//Code involved in automting PABS
-//Made by Purity For Mankind
+//Arduino code involved in automting PABS(Pollution Automated Battling System? I do not remember the full form tbh ;-;)
+//Made by Purity For Mankind (my team ahaha)
 
 //remark on 29/10/2020:  Nostalgic code, dates back to 30 Nov 2019 XD
 
