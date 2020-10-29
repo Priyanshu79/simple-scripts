@@ -68,12 +68,12 @@ print('hello world')
 ### link
 [lichess](https://lichess.org)
 
-###image
+### image
 ![alt text](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTmJw74iExZUlFiCHXVUOeRjTVfmsK0_R-P-sqPJTpcaiy9IhjB%26s&sp=1604006235T854b40ca975cead2aad0b723b4d07e945501a497658e61871e2cb563dff24c94)
 
 
 
 
-| head | body | tail |
+|head|body|tail|
 |:---||:---:||---:|
-| row1a | row1b | row1c |
+|row1a|row1b|row1c|
