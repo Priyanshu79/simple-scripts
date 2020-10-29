@@ -75,6 +75,6 @@ print('hello world')
 
 
 | head | body | tail |
-| :--- || :---: || ---: |
+| :--- | :---: | ---: |
 | row1a | row1b | row1c |
 | row2a | row2b | row2c |
