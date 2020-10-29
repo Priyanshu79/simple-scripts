@@ -41,9 +41,9 @@ print('hello world')
 
 
 
--[ ] what else should i do
--[x] ugh
--[x] well well well
+- [ ] what else should i do
+- [x] ugh
+- [x] well well well
 
 
 1. I
@@ -57,5 +57,5 @@ print('hello world')
 
 
 
-|head|body|tail|
-|row1a|row1b||row1c|
+| head | body | tail |
+| row1a | row1b | row1c |
