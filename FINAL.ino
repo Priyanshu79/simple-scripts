@@ -51,7 +51,7 @@ void loop() {
    sensorValue = analogRead(A1);
    sensor_volt = sensorValue/1024*5.0;
    RS_gas = (5.0-sensor_volt)/sensor_volt;
-   ratio = RS_gas/R0; //Replace R0 with the value found using the sketch above
+   ratio = RS_gas/R0; 
    float x = 1538.46 * ratio;
    float ppm = pow(x,-1.709);
     Serial.print("  ");
