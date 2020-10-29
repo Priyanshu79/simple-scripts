@@ -1,9 +1,15 @@
 #testing
+
 ##testing
+
 ###testing 
+
 ####testing
+
 #####testing
+
 ######testing
+
 
 **testing**
 *testing*
@@ -28,10 +34,14 @@ print('hello world')
 ```
 
 []what else should i do
+
 [x] ugh
+
 [x] well well well
 
 1.I
+
 1.AM 
+
 1.BORED
 
