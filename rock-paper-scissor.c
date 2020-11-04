@@ -1,3 +1,5 @@
+//A simple terminal based rock-paper-scissor game
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -6,11 +8,11 @@ int checker(char a, char b);
 
 //RAND_MAX is the upper limit of random number generated
 
-//formula for finding out random number between a range: (rand()%(upper-lower))+lower
+//formula for finding out a random integer in a range: (rand()%(upper_limit-lower_limit))+lower_limit
 
 int main()
 {
-    printf("The Rock Paper Scissor Game!\n Play Rock-Paper-Scissor with the computer!\n\n");
+    printf("The Rock Paper Scissor Game!\nPlay Rock-Paper-Scissor with the computer!\n<Note: for each win- you get 2 points, for each draw- you get 1 point and for each loss you get 0 point.>\n\n");
     while (1 == 1)
     {
         printf("\nEnter the number of rounds you want to play (The number entered should be a positive integer)\n");
@@ -61,15 +63,15 @@ int main()
         }
         if (computer_score == user_score)
         {
-            printf("The match is a tie!\n\n");
+            printf("The match is a tie! Your score is %d and computer's score is %d.\n\n",user_score,computer_score);
         }
         else if (computer_score > user_score)
         {
-            printf("The computer won the match!\n\n");
+            printf("The computer won the match! Your score is %d and computer's score is %d.\n\n",user_score,computer_score);
         }
         else
         {
-            printf("GG! You won the match!\n\n");
+            printf("GG! You won the match! Your score is %d and computer's score is %d.\n\n",user_score,computer_score);
         }
     }
 
