@@ -1,4 +1,4 @@
-## A simple script that calculates the exact complex roots of a given quadratic equation, by taking inputs the coefficients of the equation ##
+## A simple script that calculates the complex roots of a given quadratic equation, by taking as inputs the coefficients of the equation ##
 
 from cmath import sqrt
 
